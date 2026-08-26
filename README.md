@@ -185,13 +185,13 @@ Based on the analysis:
 
 The overview dashboard focuses on the main supply chain KPIs, location performance, product availability, inspection results, and transportation modes.
 
-![Supply Chain Dashboard Overview](Images/dashboard_overview.png)
+![Supply Chain Dashboard Overview](Images/Supply_Chain_Slide_1.png)
 
 ### **Detailed Analysis**
 
 The detailed dashboard focuses on revenue, production volume, shipping times, and route performance by product type.
 
-![Supply Chain Detailed Analysis](Images/dashboard_analysis.png)
+![Supply Chain Detailed Analysis](Images/Supply_Chain_Slide_2.png)
 
 ---
 
@@ -232,4 +232,4 @@ Supply-Chain-Analytics/
 
 **Ali Magdy**
 
-[GitHub](https://chatgpt.com/c/YOUR_GITHUB_LINK) | [LinkedIn](https://chatgpt.com/c/YOUR_LINKEDIN_LINK)
+[GitHub](https://github.com/mralimagdy2001-dev) | [LinkedIn](https://www.linkedin.com/in/ali-magdy-mahmoud/)
